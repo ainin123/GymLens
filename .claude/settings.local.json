@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"Get-Content 'C:\\\\Users\\\\aniqa\\\\gymapp\\\\src\\\\app\\\\globals.css' | Measure-Object -Line; Get-Content 'C:\\\\Users\\\\aniqa\\\\gymapp\\\\src\\\\lib\\\\utils.ts' | Measure-Object -Line; Get-Content 'C:\\\\Users\\\\aniqa\\\\gymapp\\\\src\\\\types\\\\index.ts' | Measure-Object -Line; Get-Content 'C:\\\\Users\\\\aniqa\\\\gymapp\\\\src\\\\data\\\\gyms.ts' | Measure-Object -Line; Get-Content 'C:\\\\Users\\\\aniqa\\\\gymapp\\\\src\\\\app\\\\layout.tsx' | Measure-Object -Line\")"
+    ]
+  }
+}
